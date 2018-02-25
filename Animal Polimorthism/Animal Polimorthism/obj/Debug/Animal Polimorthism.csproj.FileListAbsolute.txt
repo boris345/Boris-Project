@@ -1,0 +1,6 @@
+C:\Boris\Boris projects\Animal Polimorthism\Animal Polimorthism\bin\Debug\Animal Polimorthism.exe
+C:\Boris\Boris projects\Animal Polimorthism\Animal Polimorthism\bin\Debug\Animal Polimorthism.pdb
+C:\Boris\Boris projects\Animal Polimorthism\Animal Polimorthism\obj\Debug\Animal Polimorthism.csprojResolveAssemblyReference.cache
+C:\Boris\Boris projects\Animal Polimorthism\Animal Polimorthism\obj\Debug\Animal Polimorthism.csproj.CoreCompileInputs.cache
+C:\Boris\Boris projects\Animal Polimorthism\Animal Polimorthism\obj\Debug\Animal Polimorthism.exe
+C:\Boris\Boris projects\Animal Polimorthism\Animal Polimorthism\obj\Debug\Animal Polimorthism.pdb
